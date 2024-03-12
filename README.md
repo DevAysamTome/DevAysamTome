@@ -14,9 +14,11 @@ About Me
 
 LinkedIn : https://www.linkedin.com/in/aysamtohme/ 
 
-Instgrame : https://www.instagram.com/aysam.to3me/
-.
+Instgrame : https://www.instagram.com/aysam.to3me/.
+
+
 Tech Stack
+
 Here are some of the technologies and tools I work with:
 
 Frontend: HTML5, CSS3, JavaScript, React.js
