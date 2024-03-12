@@ -43,7 +43,9 @@ Ecommerce Website (https://github.com/DevAysamTome/aysam-ecommerce-app.git) - Re
 Ecommerce Website (https://github.com/DevAysamTome/aysam-ecommerce-app.git) - React + Node + Express + MySQL , MUI.
 
 Connect with Me
+
 GitHub: DevAysamTome
+
 LinkedIn: https://www.linkedin.com/in/aysamtohme/ 
 
 Portfolio: https://devaysamtome.github.io/aysam/
